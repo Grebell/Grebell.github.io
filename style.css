@@ -26,6 +26,7 @@
 body{
         margin: 0;
         background-color: #000;
+        margin: auto;
 }
 h1 {
         color: white;
