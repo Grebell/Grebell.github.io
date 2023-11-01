@@ -16,7 +16,7 @@
 
 #canv {
         position: fixed;
-        top: 0;
+        top: -5%;
         left: 0;
 }
 
@@ -30,8 +30,6 @@ h1 {
    }
 canvas {
        Display: block;
-       top: 0;
-       left: 0;
        position: fixed
        }
 
