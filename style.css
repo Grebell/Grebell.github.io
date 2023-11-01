@@ -8,6 +8,10 @@ body {
       border-radius: 5px;
       background-color: #121212;
       opacity: 0.9;
+      padding-top: 5%;
+      padding-right: 5%;
+      padding-bottom: 5%;
+      padding-left: 5%;
     }
 h1 {
       color: white;
