@@ -5,6 +5,12 @@
 
 body {background-color: #121212;}
 h1 {color: white;}
+div {
+    margin
+    rounded corners
+    sighttransparency?
+    background-color: #121212;
+}
 canvas {
   display:block;
   position: fixed
