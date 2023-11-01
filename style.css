@@ -12,7 +12,10 @@
       position: relative;
       z-index: 1;
 }
-
+.fakediv {
+      opacity: 0;
+      height: 5%;
+}
 #canv {
         position: fixed;
         top: 0;
