@@ -5,10 +5,10 @@
       border-radius: 5px;
       background-color: #121212;
       opacity: 0.92;
-      padding-top: 5%;
-      padding-right: 5%;
-      padding-bottom: 5%;
-      padding-left: 5%;
+      padding-top: 3%;
+      padding-right: 3%;
+      padding-bottom: 3%;
+      padding-left: 3%;
       position: relative;
       z-index: 1;
 }
