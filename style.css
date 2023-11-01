@@ -13,7 +13,7 @@
       padding-right: 5%;
       padding-bottom: 5%;
       padding-left: 5%;
-      position: center;
+      position: relative;
       z-index: 1;
 }
 
