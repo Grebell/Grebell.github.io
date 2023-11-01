@@ -13,9 +13,11 @@
       z-index: 1;
 }
 .fakediv {
+      top:0;
+      left:0;
       opacity: 0;
-      position: fixed;
-      top: 0;
+      margin: 0;
+      position: relative;
 }
 #canv {
         position: fixed;
