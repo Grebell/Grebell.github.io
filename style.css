@@ -1,6 +1,5 @@
 .container {
       margin: auto;
-      margin-top: 5%;
       background-color: #121212;
       width: 50%;
       border-radius: 5px;
@@ -16,11 +15,12 @@
 
 #canv {
         position: fixed;
-        top: -5%;
+        top: 0;
         left: 0;
 }
 
 body{
+        margin-top: 5%;
         margin: 0;
         background-color: #000;
         margin: auto;
@@ -31,6 +31,5 @@ h1 {
 canvas {
        Display: block;
        position: fixed;
-       top: -5%;
        }
 
